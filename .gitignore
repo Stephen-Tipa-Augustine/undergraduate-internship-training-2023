@@ -1,0 +1,8 @@
+django_rest_api_demo/venv
+django_rest_api_demo/media
+django_rest_api_demo/*.db
+django_rest_api_demo/.idea
+
+vue-hello-world-1/.idea
+vue-hello-world-1/.vscode
+vue-hello-world-1/node_modules
